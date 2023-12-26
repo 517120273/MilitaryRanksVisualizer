@@ -1,2 +1,3 @@
 # MilitaryRanksVisualizer
 Military Ranks Visualizer
+一个使用Turtle图形库的程序，允许用户以可视化方式表示不同的军衔。该程序应提供一个用户友好的界面，用于选择军衔并使用Turtle图形显示其相应的图像。
